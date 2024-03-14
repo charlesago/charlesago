@@ -88,8 +88,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/charlesago/output/snake.svg" alt="Snake animation" />
 
 ###
